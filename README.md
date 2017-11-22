@@ -1,4 +1,4 @@
-# AppDynamics-Daemon-Process-Monitor
+# AppDynamics Linux Daemon Process Monitoring Extension 
 
 The extension monitors linux daemon processes by their (unique) service names.  PIDs are not used here as PIDs are transient in nature.  
 
